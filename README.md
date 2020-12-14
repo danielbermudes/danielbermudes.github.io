@@ -1,3 +1,5 @@
+https://danielbermudes.github.io/
+
 What is it?
 
 - My project will be to create a vivid, interactive personal website to host all of my music, live performance videos and other related content.
